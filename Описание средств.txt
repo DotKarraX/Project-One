@@ -1,0 +1,33 @@
+1. Редактор: Microsoft Visual Studio Code. 
+        Де факто стандарт разработки для выбранных платформ.
+        https://code.visualstudio.com
+
+2. Платформа: node.js
+        Web, Гибкость, переносимость, модифицируемость, большое комьюнити, много качественного опенсорса
+        https://nodejs.org
+
+3. База данных: neo4j
+        Графовая база данных по сравнению с реляционными очень гибкая
+        http://neo4j.com
+
+4. Язык программирования: JavaScript
+        Унификация
+        см. п.2, node.js
+
+5. Базовые библиотеки:
+        React. Весьма популярная библиотека от Facebook.
+        https://facebook.github.io
+
+        Redux. Работа с данными на стороне клиента.
+        http://redux.js.org/, https://iamakulov.com/talks/redux-in-real-life/
+
+        Redux-saga. "Сайдинг" - работа с внешними данными, логами и пр. "грязными данными".
+        https://github.com/redux-saga/redux-saga/blob/master/README_ru.md
+
+        neo4j-driver. Драйвер JavaScript для доступа к NEO4J.
+        https://www.npmjs.com/package/neo4j-driver
+
+        material-ui или react-toolbox. Красивый интерфейс для React
+        http://www.material-ui.com, http://react-toolbox.com
+
+6. 
